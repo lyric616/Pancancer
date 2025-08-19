@@ -1,2 +1,2 @@
 # Pancancer
-Pancancer data by yun gruop DClab
+This repository was created for the pan-cancer research project of the Yun group at DCLab.
